@@ -52,6 +52,7 @@ li {
   max-width: 600px;
   margin: 0 auto;
   padding: 1.5em;
+  box-shadow: #0c1627 0px 14px 28px, #0c1627 0px 10px 10px;
 }
 .image-container {
   background: hsl(178, 100%, 50%);
