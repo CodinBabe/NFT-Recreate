@@ -49,7 +49,7 @@ li {
   background-color: hsl(216, 50%, 16%);
   border-radius: 15px;
   width: 85%;
-  max-width: 600px;
+  max-width: 300px;
   margin: 0 auto;
   padding: 1.5em;
   box-shadow: #0c1627 0px 14px 28px, #0c1627 0px 10px 10px;
@@ -99,7 +99,7 @@ li {
   width: 40px;
 }
 .avatar-id {
-  margin-right: 2em;
+  margin-right: 1.5em;
 }
 .attribution {
   font-size: 11px;
@@ -107,20 +107,4 @@ li {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-@media (min-width: 1440px) {
-  .container {
-    width: 20%;
-    padding-bottom: 0.2em;
-  }
-  p {
-    font-size: 1rem;
-  }
-  .flex {
-    margin: 1.5em 0;
-  }
-  .avatar-id {
-    margin-right: 0.8em;
-  }
 }
