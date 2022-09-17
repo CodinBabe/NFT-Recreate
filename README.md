@@ -36,8 +36,8 @@ Users should be able to:
 ## My process
 
 Nothing much here, trust me.
-I put all my text and img in a container, then style my container to be at the center of the page. Added a section before the container which was really paddedðŸ˜ƒ. Then styling other things come easily.
-Major thing here, was displaying flex the (eth icon and text) with the (clock and text).
+I put all my text and img in a container, then style my container to be at the center of the page. Added a main before the container with a margin-top to push the container down a bit. Then styling other things come easily.
+Major thing here, was displaying flex the (eth icon and text) with the (clock icon and text).
 
 ### Built with
 
@@ -54,8 +54,6 @@ Really struggled with the equilibrium hover effect that display the view iconðŸ˜
 ### Continued development
 
 I will continue to learn, unlearn and relearn till web design become a natural thing.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
