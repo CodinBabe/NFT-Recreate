@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/teboola/NFT-Recreate]()
-- Live Site URL: [https://teboola.github.io/NFT-Recreate/]()
+- Solution URL: [https://github.com/CodinBabe/NFT-Recreate]()
+- Live Site URL: [https://codinbabe.github.io/NFT-Recreate/]()
 
 ## My process
 
